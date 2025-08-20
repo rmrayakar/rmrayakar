@@ -2,9 +2,8 @@
 <h3 align="center">Turning Ideas into Scalable & Impactful Tech Solutions 🚀</h3>
 
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=27&color=00FFAB&center=true&vCenter=true&width=600&lines=Building+Innovative+Solutions;Contributing+to+Open+Source;Exploring+AI+and+System+Design;Passionate+about+Cloud+and+IoT" alt="Typing SVG"/>
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&color=00FFAB&center=true&vCenter=true&width=1000&lines=I+love+exploring+how+AI,+compilers,+and+systems+shape+the+future;I+believe+even+the+most+complex+ideas+can+be+made+simple+and+useful;For+me,+technology+is+a+canvas+to+blend+curiosity+with+creativity;I’m+fascinated+by+the+possibilities+of+cloud,+IoT,+and+connected+worlds;Every+project+is+a+chance+to+learn,+grow,+and+share+what+I+discover" alt="Typing SVG"/>
+
 
 ---
 
@@ -128,12 +127,18 @@
 ## 📬 Connect with Me  
 
 <p align="center">
-  <a href="https://linkedin.com/in/ramachandramr"><img src="https://skillicons.dev/icons?i=linkedin" height="36"/></a>
-  <a href="https://x.com/RMRaikar777"><img src="https://cdn.simpleicons.org/x/ffffff/000000" height="36"/></a>
-  <a href="mailto:rmrayakar2004@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="36"/></a>
+  <a href="https://linkedin.com/in/ramachandramr"><img src="https://skillicons.dev/icons?i=linkedin" height="36"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://x.com/RMRaikar777"><img src="https://cdn.simpleicons.org/x/ffffff" height="32"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="mailto:rmrayakar2004@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="36"/></a>&nbsp;&nbsp;&nbsp;
   <a href="https://yourportfolio.com"><img src="https://skillicons.dev/icons?i=vercel" height="36"/></a>
 </p>
 
 ---
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=13&duration=6000&color=FF6F61&center=true&vCenter=true&width=1000&lines=🌱+My+journey+is+about+blending+curiosity+with+creativity+to+build+systems+that+are+scalable,+sustainable,+and+impactful" alt="Typing SVG"/>
+</p>
 
-<p align="center">✨ Always excited to build, break, and learn by creating projects that matter!</p>
+
+
+
+
