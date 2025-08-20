@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ramachandra Manjunath Rayakar</h1>
 <h3 align="center">Turning Ideas into Scalable & Impactful Tech Solutions 🚀</h3>
 
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=27&color=00FFAB&center=true&vCenter=true&width=600&lines=Building+Innovative+Solutions;Contributing+to+Open+Source;Exploring+AI+and+System+Design;Passionate+about+Cloud+and+IoT" alt="Typing SVG"/>
 </p>
@@ -18,35 +19,45 @@
 
 ## 🛠️ Tech Stack
 
-**Programming & Scripting:**  
-<a href="https://isocpp.org/" target="_blank"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/></a>
-<a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
-<a href="https://en.cppreference.com/w/c" target="_blank"><img src="https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></a>
-<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/></a>  
+<p align="center">
+  <!-- Programming & Scripting -->
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+</p>
 
-**Frontend:**  
-<a href="https://react.dev/" target="_blank"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/></a>
-<a href="https://tailwindcss.com/" target="_blank"><img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></a>  
+<p align="center">
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
 
-**Backend & Databases:**  
-<a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/></a>
-<a href="https://nodejs.org/" target="_blank"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/></a>
-<a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/></a>
-<a href="https://supabase.com/" target="_blank"><img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/></a>
-<a href="https://vercel.com/" target="_blank"><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>  
+<p align="center">
+  <!-- Backend & Databases -->
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</p>
 
-**DevOps & Tools:**  
-<a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/></a>
-<a href="https://www.linux.org/" target="_blank"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/></a>
-<a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/></a>  
+<p align="center">
+  <!-- DevOps & Tools -->
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
 
-**Embedded & Systems:**  
-<a href="https://www.arduino.cc/" target="_blank"><img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/></a>
-<a href="https://www.espressif.com/en/products/socs/esp32" target="_blank"><img src="https://img.shields.io/badge/ESP32-007CBA?style=for-the-badge&logo=arduino&logoColor=white"/></a>
-<a href="https://llvm.org/" target="_blank"><img src="https://img.shields.io/badge/LLVM-5C4F9B?style=for-the-badge&logo=llvm&logoColor=white"/></a>
+<p align="center">
+  <!-- Embedded & Systems -->
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/ESP32-007CBA?style=for-the-badge&logo=espressif&logoColor=white" />
+  <img src="https://img.shields.io/badge/LLVM-5C4F9B?style=for-the-badge&logo=llvm&logoColor=white" />
+</p>
 
 ---
 
@@ -59,6 +70,11 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rmrayakar&theme=radical" alt="GitHub Streak"/>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rmrayakar&layout=compact&theme=radical&include_forks=true" alt="Top Languages"/>
+</p>
+
 
 ---
 
@@ -79,8 +95,8 @@
   </tr>
   <tr>
     <td align="center" width="50%">
-      <a href="https://github.com/rmrayakar/File-Integrity-and-Securtiy" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=rmrayakar&repo=File-Integrity-and-Securtiy&theme=radical" alt="File Integrity & Security" width="400" height="200"/>
+      <a href="https://github.com/rmrayakar/File-Integrity-and-Security" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=rmrayakar&repo=File-Integrity-and-Security&theme=radical" alt="File Integrity & Security" width="400" height="200"/>
       </a>
     </td>
     <td align="center" width="50%">
@@ -96,7 +112,7 @@
       </a>
     </td>
     <td align="center" width="50%">
-      <!-- Empty slot to keep 2-column alignment -->
+      <!-- Empty slot -->
     </td>
   </tr>
 </table>
@@ -106,7 +122,6 @@
     <img src="https://img.shields.io/badge/View%20All%20Projects-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>
-
 
 ---
 
@@ -119,14 +134,6 @@
   <a href="https://yourportfolio.com"><img src="https://skillicons.dev/icons?i=vercel" height="36"/></a>
 </p>
 
-
-
-
-
 ---
-
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=rmrayakar" alt="visitors"/>
-</p>
 
 <p align="center">✨ Always excited to build, break, and learn by creating projects that matter!</p>
